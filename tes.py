@@ -7,3 +7,8 @@ print("tes")
 
 #tes brachgoing
 #haha
+
+def tes():
+    print("test success")
+
+tes()
